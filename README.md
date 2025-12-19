@@ -11,9 +11,9 @@ O **HealtCareTech** foi desenvolvido para demonstrar a aplicação de algoritmos
 Este projeto também valida as competências adquiridas na certificação de **Machine Learning da Mastertech**.
 
 ## 🛠️ Tecnologias Utilizadas
-- **Linguagem:** Python 3.x
+- **Linguagem:** Python 3.8
 - **Arquitetura:** Estrutura modular com separação de responsabilidades (API, Model, Services)
-- **Bibliotecas Principais:** (Ex: Pandas, Scikit-Learn, FastAPI/Flask - *adicione as que você usou*)
+- **Bibliotecas Principais:** ( Pandas, Scikit-Learn, FastAPI)
 
 ## 📁 Estrutura do Repositório
 - `/API`: Contém os endpoints para comunicação com o sistema.
