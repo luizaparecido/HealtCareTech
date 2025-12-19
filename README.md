@@ -2,7 +2,6 @@
 
 Este projeto é uma solução focada na intersecção entre tecnologia e saúde (HealthTech), utilizando **Python** e **Machine Learning** para análise e processamento de dados médicos. 
 
-> **Status do Projeto:** Em desenvolvimento / Finalizado (ajuste conforme o caso)
 
 ---
 
